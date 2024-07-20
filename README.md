@@ -11,7 +11,7 @@ DevDetective is a web application designed to search and display GitHub profiles
 
 ## Live Demo
 
-Check out the live demo of the project on GitHub Pages: [DevDetective](https://yourusername.github.io/DevDetective)
+Check out the live demo of the project on GitHub Pages: [DevDetective](https://nishantvidhuri.github.io/Dev-Detective/)
 
 
 ## Installation
